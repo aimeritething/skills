@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review New Work"
+  short_description: "Clean up new commits without behavior changes"
+  default_prompt: "Use $review-new-work to review the latest commit or an issue/PRD implementation and apply safe readability improvements."
